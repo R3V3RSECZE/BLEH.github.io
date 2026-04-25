@@ -164,3 +164,6 @@ class HlavniAplikace {
         return nactenaGaraz;
     }
 }
+
+
+<img width="493" height="495" alt="image" src="https://github.com/user-attachments/assets/9c94445a-9a6a-4a26-9888-06164290f4e6" />
